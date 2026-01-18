@@ -28,6 +28,8 @@ Currently, I continue building **web automation bots, backend APIs, and desktop 
 
 <br/><br/>
 
+---
+
 ### 💼 Highlighted Experiences
 
 - **Print Sneakers (2020 – 2023)**
