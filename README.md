@@ -2,9 +2,9 @@
 
 **`Computer Engineer | Automation & Backend Developer`**
 
-My name is João Carvalho, I am 18 years old and from Brazil. I am passionate about technology, programming, and automation, with hands-on experience in **backend, web, and desktop development**.  
+My name is João Carvalho, I am 19 years old and from Brazil. I am passionate about technology, programming, and automation, with hands-on experience in **backend, web, and desktop development**.  
 
-Since the age of 14, I have been creating my own tech projects and entrepreneurial ventures: I founded **Print Sneakers**, an online store for rare sneakers in Brazil, where I implemented **custom automation bots** to secure high-demand products, generating over **R$500,000 in revenue** and serving hundreds of customers.  
+Since the age of 14, I have been creating my own tech projects and entrepreneurial ventures: I founded **Print Sneakers**, an online store in Brazil for rare sneakers, where I implemented **custom automation bots** to secure high-demand products, generating over **R$500,000 ($100,000) in revenue** and serving hundreds of customers.  
 
 Currently, I continue building **web automation bots, backend APIs, and desktop applications**, monetizing bots and systems for websites using **JavaScript, Node.js, Python, and C#**, with **MongoDB** databases, **Firebase Auth** for authentication, and **Electron** for desktop apps.  
 
