@@ -10,23 +10,6 @@ Currently, I continue building **web automation bots, backend APIs, and desktop 
 
 📌 Check out my projects and source code on my GitHub.
 
-<p align="left">
-    <a href="https://github.com/joaocarvalho">
-        <img 
-            alt="Followers" 
-            title="Follow me on GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/joaocarvalho?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Followers&logoColor=white"
-        />
-    </a>
-    <a href="https://github.com/joaocarvalho?tab=repositories&sort=stargazers">
-        <img 
-            alt="GitHub Stars" 
-            title="Total GitHub Stars" 
-            src="https://custom-icon-badges.demolab.com/github/stars/joaocarvalho?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Stars"
-        />
-    </a>
-</p>
-
 ---
 
 ### 🤖 Technologies & Tools
