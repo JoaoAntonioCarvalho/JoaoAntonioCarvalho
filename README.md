@@ -32,7 +32,7 @@ Currently, I continue building **web automation bots, backend APIs, and desktop 
 
 - **Print Sneakers (2020 – 2023)**
   - Founder & Automation Developer of a rare sneaker online store in Brazil.
-  - Developed custom automation bots to secure high-demand products, generating over **R$500,000 in revenue** and serving hundreds of clients.
+  - Developed custom automation bots to secure high-demand products, generating over **R$500,000 ($100,000) in revenue** and serving hundreds of clients.
   - Managed sales, logistics, customer support, and monetization of technical solutions.
   - Applied **Node.js, JavaScript, MongoDB, and Firebase Auth**, bridging automation and business.
 
