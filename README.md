@@ -1,4 +1,4 @@
-# João Carvalho
+# 👨‍💻 João Carvalho
 
 **`Computer Engineer | Automation & Backend Developer`**
 
