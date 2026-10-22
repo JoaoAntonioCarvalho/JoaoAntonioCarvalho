@@ -2,36 +2,41 @@
 
 **Computer Engineering student at Faulkner University (Montgomery, AL) · Full-Stack & AI Developer**
 
-I'm a 19-year-old Computer Engineering student from Brazil, now based in Alabama. I started building software at 14, when I founded **Print Sneakers**, an online store in Brazil that reached over **$100,000 (R$500,000) in revenue**. I wrote the company's in-house software myself: real-time product monitoring, purchase automation, and integrations with inventory, sales, and logistics.
+I'm a 19-year-old Computer Engineering junior from Brazil, now based in Montgomery, Alabama. I started building software at 14, when I founded **Print Sneakers**, an online store in Brazil that reached over **$100,000 (R$500,000) in revenue**. Since then I've sold automation tools to 16 clients, built websites for small businesses, and solo-built **Entrevistador.IA**, a full SaaS for AI-driven interview practice.
 
-Today I focus on backend services, authentication and security, real-time systems, and AI-powered applications. My latest project, **Entrevistador.IA**, is a full SaaS for AI-driven interview practice.
+I focus on backend services, authentication and security, real-time systems, and AI-powered applications.
 
 ## Tech
 
-JavaScript · TypeScript · Node.js · Next.js · React · Express · Python · C# · C++ · Go · PostgreSQL (Supabase) · MongoDB · Firebase Authentication · Redis · Socket.IO / WebSockets · Electron · LLM APIs (Anthropic, OpenAI) · Git
+- **Main:** JavaScript · TypeScript · C#
+- **Also:** Python · C++ · Go · HTML/CSS
+- **Frameworks & data:** Node.js · Next.js · React · Express · PostgreSQL (Supabase) · MongoDB · Redis · Firebase Authentication · Socket.IO · LLM APIs (OpenAI, Anthropic)
+- **Tools:** Git/GitHub · Vercel · Electron · Sentry
 
 ## Experience
 
 **Entrevistador.IA · Founder & Full-Stack Developer (2026)**
-- Designed and built an AI mock-interview SaaS: resume and job parsing, voice interviews, and scored feedback reports.
-- Next.js, TypeScript, Supabase (Row Level Security), Upstash rate limiting, Mercado Pago payments, Sentry.
+- Designed, built, and launched solo an AI mock-interview platform: users upload a resume and job posting, take a voice interview with an AI recruiter, and receive a scored feedback report.
+- Next.js, TypeScript, Supabase (PostgreSQL), LLM APIs, and online payments.
+- Production security: Row Level Security, HMAC-verified payment webhooks, CSP/HSTS headers, per-IP rate limiting, and a daily AI-cost circuit breaker.
+
+**Freelance Software & Web Developer (2021–Present)**
+- Build and sell subscription-based desktop automation tools (Electron, Node.js) to 16 clients, with user authentication and license control via Firebase Authentication; handle onboarding, troubleshooting, and continuous updates.
+- Build websites for small businesses, including:
+  - [Net Shop Garden](https://www.netshopgarden.com.br/): online store of a garden and decor center in São Paulo.
+  - [Culinary Management Solutions](https://culinarymgmnt.com/): website of a catering company in Montgomery, AL.
 
 **Print Sneakers · Founder & Developer (2020–2023)**
 - Founded and ran an e-commerce store for limited-release sneakers, reaching $100K+ in revenue and serving hundreds of customers.
-- Built the company's in-house software (Node.js, MongoDB) for real-time product monitoring and purchase automation, connected to inventory, sales, and logistics.
-- Managed sales, logistics, and customer support.
-
-**Freelance Software Developer · Web Automation & Backend**
-- Built and sold subscription-based desktop tools (Electron, Node.js) with user authentication and license control through Firebase Authentication.
-- Supported paying users with onboarding, troubleshooting, and continuous updates.
+- Built the in-house software (Node.js, MongoDB) for real-time product monitoring and purchase automation, connected to inventory, sales, and logistics.
 
 ## Featured projects
 
 - [Entrevistador.IA](https://github.com/JoaoAntonioCarvalho/entrevistador-ai): AI mock-interview platform with voice, LLM evaluation, payments, and production-grade security.
 - [Firebase Auth Service](https://github.com/JoaoAntonioCarvalho/Firebase-Auth-Service): sign-up, login, and password reset with Node.js, Express, and Firebase Authentication.
+- [Real-Time Document Editor](https://github.com/JoaoAntonioCarvalho/WebSocket-Server): collaborative editing with Socket.IO and MongoDB.
 - [Phasor Precision](https://github.com/JoaoAntonioCarvalho/phasor-calc-desktop): Electron desktop app that converts between polar and rectangular form for circuit analysis.
 - [Carvalho GPT](https://github.com/JoaoAntonioCarvalho/carvalho-gpt): Node.js web app that answers questions through the OpenAI API.
-- [Real-Time Document Editor](https://github.com/JoaoAntonioCarvalho/WebSocket-Server): collaborative editing with Socket.IO and MongoDB.
 
 ## Contact
 
